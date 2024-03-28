@@ -1,5 +1,5 @@
 using Microsoft.EntityFrameworkCore;
-using TizzaAula;
+using Entidades;
 
 var builder = WebApplication.CreateBuilder(args);
 

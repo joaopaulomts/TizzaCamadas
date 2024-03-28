@@ -14,7 +14,7 @@ namespace Repositorio
 
 using Microsoft.EntityFrameworkCore;
 
-namespace TizzaAula
+namespace Entidades
 {
     public class DataContext : DbContext
     {
