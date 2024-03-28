@@ -27,5 +27,6 @@ namespace Servicos
 
             _repoPizzaria.Inserir(pizzaria);
         }
+    }
 }
 
