@@ -6,4 +6,9 @@
     <Nullable>enable</Nullable>
   </PropertyGroup>
 
+  <ItemGroup>
+    <ProjectReference Include="..\ClassLibrary2\Repositorio.csproj" />
+    <ProjectReference Include="..\ClassLibrary3\Entidades.csproj" />
+  </ItemGroup>
+
 </Project>

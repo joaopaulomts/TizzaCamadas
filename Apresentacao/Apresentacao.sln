@@ -13,11 +13,11 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "3 - Repositorio", "3 - Repo
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "X - Entidades", "X - Entidades", "{8A50010E-925E-45C3-AE3C-41E81EEDF879}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ClassLibrary1", "ClassLibrary1\ClassLibrary1.csproj", "{F1142230-B0EA-4389-9CDF-AD338F62050E}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Servicos", "ClassLibrary1\Servicos.csproj", "{F1142230-B0EA-4389-9CDF-AD338F62050E}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ClassLibrary2", "ClassLibrary2\ClassLibrary2.csproj", "{F0F5DFF0-79EA-422F-89DA-A5676D6AFC42}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Repositorio", "ClassLibrary2\Repositorio.csproj", "{F0F5DFF0-79EA-422F-89DA-A5676D6AFC42}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ClassLibrary3", "ClassLibrary3\ClassLibrary3.csproj", "{A43DFAB2-62DF-4681-AB2D-A7C80168C9F4}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Entidades", "ClassLibrary3\Entidades.csproj", "{A43DFAB2-62DF-4681-AB2D-A7C80168C9F4}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
