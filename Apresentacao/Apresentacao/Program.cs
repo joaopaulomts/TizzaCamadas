@@ -1,5 +1,6 @@
 using Microsoft.EntityFrameworkCore;
 using Entidades;
+using Repositorio;
 
 var builder = WebApplication.CreateBuilder(args);
 

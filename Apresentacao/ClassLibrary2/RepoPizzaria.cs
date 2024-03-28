@@ -9,9 +9,9 @@ namespace Repositorio
     public class RepoPizzaria : IRepoPizzaria
     {
         private DataContext _dataContext;
-        public RepoPizzaria()
+        public RepoPizzaria(DataContext dataContext)
         {
-            _dataContext = DataContext;
+            _dataContext = dataContext;
         }
 
         public void Inserir(Pizzaria pizzaria)
